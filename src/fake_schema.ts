@@ -31,7 +31,7 @@ type ExamplesArgs = {
   values: [any];
 };
 type StubArgs = {
-  value: [any];
+  value: any;
 };
 type ListLengthArgs = {
   min: number;
